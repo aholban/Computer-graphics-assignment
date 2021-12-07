@@ -1,0 +1,7 @@
+rasterizing
+libs/
+logo.obj
+*mtl
+*.ppm
+triangle
+*.o
